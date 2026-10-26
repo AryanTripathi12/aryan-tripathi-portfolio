@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-label="Replace with Aryan's portrait">
+  <rect width="600" height="700" fill="#24262a"/>
+  <circle cx="300" cy="254" r="108" fill="#aeb2ad"/>
+  <path d="M100 700c18-176 105-267 200-267s182 91 200 267" fill="#aeb2ad"/>
+  <path d="M211 246c17 24 46 38 89 38 44 0 74-14 91-39-1-90-43-139-91-139-47 0-89 49-89 140z" fill="#3b3e43"/>
+  <text x="300" y="655" fill="#24262a" font-family="monospace" font-size="18" text-anchor="middle">REPLACE WITH YOUR PHOTO</text>
+</svg>
